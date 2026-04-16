@@ -1,5 +1,5 @@
 # AC-popstr-meta-analysis-2026
-Script repository for Arctic cod population structure derived using a meta-analytical approach. This repository comprises the relevant script(s) and links to data files (on Borealis database) forming the basis for the manuscript titled: 
+Script repository for Arctic cod population structure derived using a meta-analytical approach. This repository comprises the relevant script(s) and links to data files (on [*Borealis*](https://borealisdata.ca/) database) forming the basis for the manuscript titled: 
 
 ### Population structure in Arctic cod *Boreogadus saida* across its range: a meta-analysis approach 
 - submitted to ICES Journal of Marine Science.
